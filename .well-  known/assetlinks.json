@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.rfyjntan.arcadetembak2d",
+      "sha256_cert_fingerprints": ["AD:80:1E:21:75:1F:75:F9:C4:BF:76:EF:94:F4:0F:C9:AD:77:46:E4:96:34:F9:8A:89:04:83:35:19:D6:2A:EE"]
+    }
+  }
+]
